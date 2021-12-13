@@ -37,9 +37,9 @@ Home Page Image - [View]
         -   The images on the home page are designed to draw the users in and catch their attention while they are reading about what the studio has to offer. The images used on the classes page correspond with the description of the classes. This will provide the users with an insight on what to expect if they sign up to the classes.
 
     ### Wireframes
-    -   Home Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/home.png)
-    -   Classes Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/classes.png)
-    -   Contact Us Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/contact.png)
+    -   Home Page Wireframe - [View]
+    -   Classes Page Wireframe - [View]
+    -   Contact Us Page Wireframe - [View]
 
     ## Features
 
