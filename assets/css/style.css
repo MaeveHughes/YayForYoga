@@ -106,3 +106,34 @@ header {
         padding: 2px 20px;
     }
 }
+
+/* About us description under the first image on the home page */
+
+.about-us {
+    text-align: left;
+    padding: 90px 20px 20px 20px;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.summary {
+    float: left;
+    padding: 7px 20px 20px;
+    font-size: 21px;
+}
+
+/* Making the about us section compatible for all devices */
+
+@media screen and (max-width:760px){
+    .about-us {
+        font-size: 22px;
+        padding-top: 40px;
+    }
+
+    .summary {
+        float: left;
+        padding: 7px 20px 20px;
+        font-size: 20px;
+    }
+}
