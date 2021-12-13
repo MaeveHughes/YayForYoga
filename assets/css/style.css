@@ -69,6 +69,38 @@ header {
     }
 }
 
+/* footer */
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+ }
+
+ .yoga-studio {
+     background-color: #477282;
+     font-size: 22px;
+     float: left;
+     padding: 40px 20px 10px 20px;
+     color: azure;
+ }
+
+ .social-networks {
+     background-color: #477282;
+     padding: 2px 20px 20px 2px;
+     width: 100%;
+     float: right;
+ }
+
+ /* Making the footer compatible for all devices */
+
+@media screen and (max-width:760px){
+    .yoga-studio {
+        font-size: 18px;
+    }
+}
+
 /* home page */
 
 /* First image appearing on the home page */
