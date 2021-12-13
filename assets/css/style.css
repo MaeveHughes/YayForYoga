@@ -363,3 +363,31 @@ footer {
         width: 380px;
     }
  }
+  /* Contact Us */
+
+  .contact-us {
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+  }
+
+/* Contact details */
+
+  .contact-box {
+    font-size: 20px;
+    border: 2px dotted #477282;
+    padding: 30px;
+    width: 900px;
+    display: block;
+    margin: 40px auto;
+ }
+
+ /* Making the contact box compatible for all devices */
+
+ @media screen and (max-width:760px){
+    .contact-box {
+        font-size: 16px;
+        width: 80%;
+    }
+ }
