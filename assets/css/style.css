@@ -263,3 +263,74 @@ footer {
         width: 80%;
     }
 }
+
+/* Adding the images side by side */
+
+.yoga-type {
+    height: 400px;
+    width: 400px;
+}
+
+.holdingcontainer {
+    width: 100%;
+    display: flex;
+    background: azure;
+    box-sizing: border-box;
+    flex-direction: row;
+}
+
+.internalcontainerl {
+    flex: 1;
+    background: #477282;
+    color: azure;
+    padding: 30px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin: 2px;
+}
+
+.internalcontainerm {
+    flex: 1;
+    background: #477282;
+    color: azure;
+    padding: 30px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin: 2px;
+}
+
+.internalcontainerr {
+    flex: 1;
+    background: #477282;
+    color: azure;
+    padding: 30px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin: 2px;
+}
+
+/* Making the images compatible for all devices */
+
+@media screen and (max-width:760px){
+
+    .yoga-type {
+        height: 350px;
+        width: 350px;
+    }
+
+    .holdingcontainer {
+        flex-direction: column;
+    }
+
+    .internalcontainerl {
+        font-size: 20px;
+    }
+
+    .internalcontainerm {
+        font-size: 20px;
+    }
+
+    .internalcontainerr {
+        font-size: 20px;
+    }
+}
