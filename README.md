@@ -2,7 +2,7 @@
 
 <h1 align="center">Yay for Yoga</h1>
 
-[View the live project here.](https://8000-beige-urial-bsimewvi.ws-eu18.gitpod.io/index.html)
+[View the live project here.]
 
 Home Page Image - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/Screenshot.png)
 
