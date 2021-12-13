@@ -137,3 +137,65 @@ header {
         font-size: 20px;
     }
 }
+
+/* Opening Hours */
+
+.openinghours {
+    font-weight: bold;
+    text-align: center;
+    border-radius: 50px;
+    margin: 50px;
+    box-shadow: 0 0 10px black;
+    padding: 15px 80px 20px 40px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.table tr td {
+    font-weight:bold;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.table {
+    padding: 25px;
+}
+
+/* Making the opening hours box compatible for all devices */
+
+@media screen and (max-width:760px){
+    .table tr td {
+        font-size: 18px;
+        padding: 2px;
+    }
+
+    .openinghours {
+        margin: 5px;
+        display: block;
+        padding: 50px;
+        border-radius: 400px;
+        }
+}
+
+/* Image two on the home page beside the opening hours */
+
+.image-two {
+    float: right;
+    border-radius: 50%;
+    height: 450px;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+/* Making the image two compatible for all devices */
+
+@media screen and (max-width:760px){
+    .image-two {
+        float: none;
+        border-radius: 50%;
+        height: 300px;
+        width: 300px;
+        padding-bottom: 20px;
+        margin-top: 20px;
+        margin-left: 17%;
+    }
+}
