@@ -334,3 +334,32 @@ footer {
         font-size: 20px;
     }
 }
+
+  /* Video */
+
+  .video {
+    overflow: hidden;
+    padding-top: 5%;
+    padding-bottom: 400px;
+    position: relative;
+    height: 0;
+    margin-left: 31%;
+    margin-bottom: 30px;
+  }
+
+  .video iframe {
+    left: 0;
+    right: 0;
+    position: absolute;
+  }
+
+  @media screen and (max-width:760px){
+    .video {
+        padding-top: 50px;
+        margin-left: 20px;
+    }
+    .video iframe {
+        height: 330px;
+        width: 380px;
+    }
+ }
