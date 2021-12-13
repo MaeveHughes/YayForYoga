@@ -231,3 +231,35 @@ footer {
         margin-left: 17%;
     }
 }
+
+/* Benefits of Yoga */
+
+.benefits-of-yoga {
+    text-align: center;
+    text-decoration: underline;
+    padding: 30px;
+}
+
+.yoga-benefits {
+    width: 700px;
+    border: 7px solid #477282;
+    padding: 50px;
+    margin: auto;
+    display: block;
+    font-size: 22px;
+}
+
+.advantages {
+    display: list-item;
+    list-style-position: inside;
+  }
+
+/* Making the benefits compatible for all devices */
+
+  @media screen and (max-width:760px){
+    .yoga-benefits {
+        font-size: 20px;
+        padding: 25px;
+        width: 80%;
+    }
+}
