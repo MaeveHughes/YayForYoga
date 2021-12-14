@@ -4,7 +4,7 @@
 
 [View the live project here.]
 
-Home Page Image - [View]
+Home Page Image - [View](https://github.com/MaeveHughes/YayForYoga/blob/main/assets/images/Screenshot%202021-07-12%20at%2019.05.16.png)
 
 <p>This is the main marketing website for Yay for Yoga. It is designed to provide web browsers with information about Yay for Yoga, the benefits of yoga and the classes they have to offer. This site is targeted towards adults who have an interest in yoga.</p>
 
@@ -37,9 +37,9 @@ Home Page Image - [View]
         -   The images on the home page are designed to draw the users in and catch their attention while they are reading about what the studio has to offer. The images used on the classes page correspond with the description of the classes. This will provide the users with an insight on what to expect if they sign up to the classes.
 
     ### Wireframes
-    -   Home Page Wireframe - [View]
-    -   Classes Page Wireframe - [View]
-    -   Contact Us Page Wireframe - [View]
+    -   Home Page Wireframe - [View](https://github.com/MaeveHughes/YayForYoga/blob/main/assets/images/home.png)
+    -   Classes Page Wireframe - [View](https://github.com/MaeveHughes/YayForYoga/blob/main/assets/images/classes.png)
+    -   Contact Us Page Wireframe - [View](https://github.com/MaeveHughes/YayForYoga/blob/main/assets/images/contact.png)
 
     ## Features
 
