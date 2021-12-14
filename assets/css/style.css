@@ -218,6 +218,7 @@ footer {
     margin-right: 100px;
     margin-top: 40px;
 }
+
 /* Making the image two compatible for all devices */
 
 @media screen and (max-width:760px){
