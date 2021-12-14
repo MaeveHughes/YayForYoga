@@ -2,7 +2,7 @@
 
 <h1 align="center">Yay for Yoga</h1>
 
-[View the live project here.]
+[View the live project here.](https://8000-tan-flyingfish-z2gy52fq.ws-eu23.gitpod.io/)
 
 Home Page Image - [View](https://github.com/MaeveHughes/YayForYoga/blob/main/assets/images/Screenshot%202021-07-12%20at%2019.05.16.png)
 
